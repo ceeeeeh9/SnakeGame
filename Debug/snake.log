@@ -1,0 +1,8 @@
+﻿  Fruit.cpp
+  Game.cpp
+  Level.cpp
+  Snake.cpp
+  Source.cpp
+C:\Users\Lenovo\Desktop\Проект\Source.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  snake.vcxproj -> C:\Users\Lenovo\Desktop\Проект\Debug\snake.exe

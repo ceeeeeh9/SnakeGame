@@ -1,0 +1,4 @@
+D:\Visual projects\C++\snake\Debug\snake.exe
+C:\Users\Lenovo\Desktop\snake\Debug\snake.exe
+C:\Users\Lenovo\Desktop\итоговая змея\Debug\snake.exe
+C:\Users\Lenovo\Desktop\Проект\Debug\snake.exe
